@@ -16,15 +16,19 @@ The "Surf" plan generates higher total revenue, but the average monthly payment 
 Conclusion:
 
 Call Duration:
+
 The "Surf" plan has greater variation in monthly call duration relative to the mean compared to the "Ultimate" plan.
 
 Messages:
+
 "Ultimate" plan users tend to send more messages, with slightly higher, though not significantly significant, variability relative to the mean, demonstrating a similarity in message sending with "Surf" plan users.
 
 Data:
+
 There is no significant difference in average monthly data traffic between the plans, and variance and standard deviation analysis provides information on low data dispersion.
 
 Revenue:
+
 The "Surf" plan generates more total revenue, but "Ultimate" plan users pay more on average per month. Variability in payments is higher in the "Surf" plan.
 
 Based on the results of the statistical test:
