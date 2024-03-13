@@ -1,6 +1,6 @@
 # personal
 
-Olá! Sou Rafael Rodrigues, um entusiasta em transição de carreira focado no universo Data Science, Big Data e Machine Learning.
+🚀 Olá! Sou Rafael Rodrigues, um entusiasta em transição de carreira focado no universo Data Science, Big Data e Machine Learning.
 
 🔍 Habilidades Técnicas: Programação em Python, com destaque para Pandas e NumPy, e estou investindo de forma consistente no desenvolvimento de habilidades em Data Science. Busco aplicar meus conhecimentos em projetos desafiadores.
 
